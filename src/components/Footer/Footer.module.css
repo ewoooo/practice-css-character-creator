@@ -9,3 +9,9 @@
 .link {
     color: inherit;
 }
+
+@media (max-width: 768px) {
+    .footer {
+        width: 100vw;
+    }
+}
